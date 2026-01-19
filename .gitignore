@@ -1,0 +1,23 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug / temporary files
+*.log
+*.tmp
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Data files (remove if you want to upload sample data)
+restaurant.txt
+rest.txt
+product.txt
